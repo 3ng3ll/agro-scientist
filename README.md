@@ -1,2 +1,0 @@
-# agro-scientist
-Begin app
